@@ -1,0 +1,24 @@
+.TextBox {
+    background: #a1a1a1;
+    border-radius: 50px;
+    border: 2px;
+    padding: 6px 10px;
+}
+.TextBox:hover {
+    background: #bebebe;
+    border-radius: 50px;
+    border: 2px;
+    padding: 6px 20px;
+}
+.send {
+    background: #000000;
+    color: #ffffff;
+    border-radius: 100px;
+}
+.send:hover {
+    background: #000000;
+    color: #ffffff;
+    border-radius: 100px;
+    top: 10px;
+    position: middle;
+}
